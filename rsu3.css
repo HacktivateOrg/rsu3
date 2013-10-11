@@ -1,6 +1,21 @@
-body {
-  background-color: black;
-  color: #23FC0E;
+pre
+{
+  background-color: #757575;
+  color: #EDA5FF;
   font-family: monospace,courier;
 }
+body
+{
+  background-color: #757575;
+  color: #FFFFFF;
+  font-family: monospace,courier;
+}
+.standout
+{
+  color: #F9FF66;
+}
+
+a:link
+{
+  color: #00CCFF;
 }
