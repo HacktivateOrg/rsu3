@@ -16,7 +16,8 @@ body
   color: #F9FF66;
 }
 
-a:link
+a:link,
+a:visited
 {
   color: #00CCFF;
 }
