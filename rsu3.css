@@ -1,7 +1,7 @@
 pre
 {
-  background-color: #757575;
-  color: #EDA5FF;
+  background-color: rgba(0,0,0,0.5);
+  color: rgb(0,245,69);
   font-family: monospace,courier;
 }
 body
@@ -9,6 +9,7 @@ body
   background-color: #757575;
   color: #FFFFFF;
   font-family: monospace,courier;
+  font-size:16px;
 }
 .standout
 {
