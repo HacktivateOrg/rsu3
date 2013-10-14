@@ -10,6 +10,7 @@ body
   color: #FFFFFF;
   font-family: monospace,courier;
   font-size:16px;
+  max-width:870px;
 }
 
 .container
@@ -27,4 +28,10 @@ a:link,
 a:visited
 {
   color: #00CCFF;
+}
+
+.fig
+{
+    margin-top:15px;
+    margin-bottom:15px;
 }
