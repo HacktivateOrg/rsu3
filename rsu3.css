@@ -10,12 +10,12 @@ body
   color: #FFFFFF;
   font-family: monospace,courier;
   font-size:16px;
-  max-width:870px;
 }
 
 .container
 {
   margin:1em auto;
+  max-width:870px;
 }
 
 h1,
