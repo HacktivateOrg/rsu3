@@ -64,3 +64,8 @@ code
  line-height: 1.7;
 }
 
+q
+{
+  font-style: italic;
+  padding-left: 10px;
+}
